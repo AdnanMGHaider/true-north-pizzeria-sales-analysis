@@ -43,3 +43,12 @@ Order volume is highest on **Fridays**, reaching approximately **3.5K orders**. 
 
 **Monthly Patterns:**  
 Sales peak during **July** and **January**, each generating around **1.9K orders**. Other months, such as March, April, and August, show stable performance at roughly **1.8K orders**. February and December see lower volume, with **1.6K** orders. These trends indicate seasonal fluctuations, likely influenced by holidays and customer behavior.
+
+### Category and Size Performance
+
+**Category Contribution:**  
+Classic pizzas generate the highest share of total revenue at **26.9%**, followed closely by Supreme at **25.5%**, Chicken at **24.0%**, and Veggie at **23.7%**. The distribution is relatively balanced, but Classic pizzas maintain a clear lead, indicating strong customer preference for traditional flavors.
+
+**Size Contribution:**  
+Large pizzas are the strongest revenue driver, contributing **45.9%** of total sales. Medium sizes follow at **30.5%**, and Regular sizes contribute **21.8%**. X-Large and XX-Large sizes account for only **1.7%** and **0.1%**, showing minimal demand. The dominance of Large pizzas highlights a strong preference for larger portions and greater value items.
+
