@@ -90,3 +90,39 @@ These items may require targeted promotions, recipe changes, or removal from the
 - Increase staffing and inventory levels on **Fridays**, **Thursdays**, and **Saturdays**, when order volume is highest.
 - Use the dashboard for ongoing weekly monitoring of KPIs to quickly identify emerging trends or performance shifts.
 
+## Technical Implementation
+
+### Data Source and Storage
+- The raw data file **pizza_sales_raw.csv** was imported into **SQL Server** using the flat file import wizard.
+- A single clean table named **pizza_sales** was created, containing one row per pizza item sold.
+
+### SQL Validation
+- All key KPIs (revenue, orders, quantity, AOV, average pizzas per order) were calculated in SQL to ensure accuracy.
+- Additional SQL queries were used to analyze:
+  - Daily and monthly order patterns  
+  - Category and size revenue contribution  
+  - Top and bottom five pizzas by revenue, quantity, and order count  
+- The complete SQL script is stored in **sql/pizza_sales_queries.sql**.
+
+### Power Query Data Preparation
+- Connected Power BI directly to the SQL Server database.
+- Cleaned and enriched the dataset by:
+  - Replacing abbreviated pizza sizes (S, M, L, XL, XXL) with full names  
+  - Creating **Day Name** and **Month Name** columns  
+  - Adding short codes (SUN, MON, JAN, FEB, etc.) for chart ordering  
+  - Adding conditional columns to enforce weekday and month sorting  
+
+### DAX Measures
+Created the core DAX measures used across all visuals:
+- **Total Revenue** = SUM(pizza_sales[total_price])   
+- **Total Orders** = DISTINCTCOUNT(pizza_sales[order_id])   
+- **Avg Order Value** = [Total Revenue] / [Total Orders] 
+- **Total Pizzas Sold** = SUM(pizza_sales[quantity])   
+- **Avg Pizzas Per Order** = [Total Pizzas Sold] / [Total Orders]
+
+### Power BI Dashboard Design
+- Developed two fully interactive pages:
+  - **Home Page** showing KPIs, daily trend, monthly trend, category share, and size share  
+  - **Best and Worst Sellers Page** highlighting top and bottom products across revenue, quantity, and orders  
+- Added slicers for **pizza category** and **date range**.
+- Included navigation buttons, text summaries, and clean visual formatting for stakeholder readability.
