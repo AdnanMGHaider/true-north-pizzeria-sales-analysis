@@ -36,3 +36,10 @@ Across one year of operations, True North Pizzeria generated approximately **CAD
 These patterns highlight an opportunity to double down on high performing categories and sizes while reevaluating weaker items to improve overall menu efficiency and profitability.
 
 ## Insights Deep Dive
+### Sales Trends Over Time
+
+**Daily Patterns:**  
+Order volume is highest on **Fridays**, reaching approximately **3.5K orders**. Thursdays and Saturdays follow with around **3.2K orders**. Midweek demand remains steady on Tuesdays and Wednesdays, while **Sunday** is the slowest day with about **2.6K orders**. This pattern suggests stronger customer activity near the end of the workweek.
+
+**Monthly Patterns:**  
+Sales peak during **July** and **January**, each generating around **1.9K orders**. Other months, such as March, April, and August, show stable performance at roughly **1.8K orders**. February and December see lower volume, with **1.6K** orders. These trends indicate seasonal fluctuations, likely influenced by holidays and customer behavior.
