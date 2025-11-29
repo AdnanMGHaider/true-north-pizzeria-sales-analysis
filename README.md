@@ -16,3 +16,13 @@ The project delivers:
 - Insights on category share, size performance, and product level trends
 - Recommendations to guide menu optimization and operational planning
 
+## Data Structure Overview
+
+The analysis is based on a single clean transactional table containing one row per pizza item sold.  
+Key fields include order identifiers, timestamps, pizza attributes, pricing, and quantity.
+
+Below is the schema overview for the dataset:
+
+<p align="center">
+  <img src="images/schema_overview.png" width="250">
+</p>
