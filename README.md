@@ -52,3 +52,19 @@ Classic pizzas generate the highest share of total revenue at **26.9%**, followe
 **Size Contribution:**  
 Large pizzas are the strongest revenue driver, contributing **45.9%** of total sales. Medium sizes follow at **30.5%**, and Regular sizes contribute **21.8%**. X-Large and XX-Large sizes account for only **1.7%** and **0.1%**, showing minimal demand. The dominance of Large pizzas highlights a strong preference for larger portions and greater value items.
 
+### Product Level Performance
+
+**Top Performing Pizzas:**  
+Across revenue, quantity, and order counts, several pizzas consistently appear among the strongest performers.  
+- **The Thai Chicken Pizza** generates the highest total revenue at **CAD 43.4K**.  
+- **The Classic Deluxe Pizza** leads in total quantity sold with **2.45K pizzas** and also ranks highly in total orders.  
+- Other strong contributors include **The Barbecue Chicken Pizza**, **The California Chicken Pizza**, and **The Spicy Italian Pizza**.
+
+These products form the core of True North Pizzeria’s menu performance and should remain central to marketing and promotion strategy.
+
+**Underperforming Pizzas:**  
+Several pizzas show consistently low sales across all major KPIs.  
+- **The Brie Carre Pizza** is the lowest performer in revenue (**CAD 11.6K**), quantity (**490 sold**), and total orders (**480 orders**).  
+- Other weak performers include **The Mediterranean Pizza**, **The Spinach Supreme Pizza**, **The Calabrese Pizza**, and **The Chicken Pesto Pizza**.
+
+These items may require targeted promotions, recipe changes, or removal from the menu to improve overall portfolio efficiency.
