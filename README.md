@@ -135,3 +135,22 @@ Created the core DAX measures used across all visuals:
 - Order timestamps reflect only completed transactions; canceled or modified orders are not represented.
 - Ingredient cost data is not available, so profitability analysis is outside the scope of this project.
 
+## Repository Structure
+
+```
+├── data
+│   └── pizza_sales_raw.csv
+├── sql
+│   └── pizza_sales_queries.sql
+├── docs
+│   ├── pizza_sales_business_requirements.md
+│   └── pizza_sales_sql_validation_report.docx
+├── powerbi
+│   └── pizza_sales_dashboard.pbix
+├── images
+│   ├── true_north_pizzeria_logo.png
+│   ├── schema_overview.png
+│   ├── dashboard_home.png
+│   └── dashboard_best_worst.png
+└── README.md
+```
