@@ -81,3 +81,12 @@ Several pizzas show consistently low sales across all major KPIs.
 - Other weak performers include **The Mediterranean Pizza**, **The Spinach Supreme Pizza**, **The Calabrese Pizza**, and **The Chicken Pesto Pizza**.
 
 These items may require targeted promotions, recipe changes, or removal from the menu to improve overall portfolio efficiency.
+
+## Recommendations
+
+- Strengthen promotions around **Classic** pizzas and **Large** sizes, which are the strongest contributors to revenue and order volume.
+- Introduce targeted marketing or limited time offers to boost visibility of weaker products, especially **The Brie Carre Pizza** and other consistently low performers.
+- Review menu design and ingredient cost structure to determine whether certain underperforming items should be updated or removed.
+- Increase staffing and inventory levels on **Fridays**, **Thursdays**, and **Saturdays**, when order volume is highest.
+- Use the dashboard for ongoing weekly monitoring of KPIs to quickly identify emerging trends or performance shifts.
+
