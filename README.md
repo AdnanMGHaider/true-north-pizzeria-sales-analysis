@@ -26,3 +26,12 @@ Below is the schema overview for the dataset:
 <p align="center">
   <img src="images/schema_overview.png" width="250">
 </p>
+
+## Executive Summary
+
+Across one year of operations, True North Pizzeria generated approximately **CAD 818K** in revenue from **21K** orders and **49K** pizzas sold. Customers typically spend about **CAD 38** per order and purchase around **2.3** pizzas per transaction, with order volume peaking on **Fridays** and remaining high on **Thursdays** and **Saturdays**, while **Sunday** experiences the lowest demand. Monthly trends show clear spikes in **July** and **January**.
+
+**Classic** pizzas are the strongest performing category, and **Large** pizzas drive the highest share of revenue, indicating a clear customer preference for larger, classic style options. At the individual product level, pizzas such as **The Thai Chicken Pizza** and **The Classic Deluxe Pizza** consistently appear among the top sellers, while items like **The Brie Carre Pizza** underperform across revenue, quantity, and order counts.
+
+These patterns highlight an opportunity to double down on high performing categories and sizes while reevaluating weaker items to improve overall menu efficiency and profitability.
+
