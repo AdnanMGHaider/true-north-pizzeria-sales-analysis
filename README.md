@@ -35,3 +35,4 @@ Across one year of operations, True North Pizzeria generated approximately **CAD
 
 These patterns highlight an opportunity to double down on high performing categories and sizes while reevaluating weaker items to improve overall menu efficiency and profitability.
 
+## Insights Deep Dive
