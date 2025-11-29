@@ -126,3 +126,12 @@ Created the core DAX measures used across all visuals:
   - **Best and Worst Sellers Page** highlighting top and bottom products across revenue, quantity, and orders  
 - Added slicers for **pizza category** and **date range**.
 - Included navigation buttons, text summaries, and clean visual formatting for stakeholder readability.
+
+## Caveats and Assumptions
+
+- The dataset covers **one year** of sales only, so trends should not be interpreted as long-term patterns.
+- The data is at the **item level**, with no customer-level information, limiting analysis of customer behavior or repeat ordering.
+- No promotional, marketing, or pricing event data is included, so seasonal variations are assumed rather than explicitly confirmed.
+- Order timestamps reflect only completed transactions; canceled or modified orders are not represented.
+- Ingredient cost data is not available, so profitability analysis is outside the scope of this project.
+
