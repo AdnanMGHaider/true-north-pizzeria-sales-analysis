@@ -35,6 +35,12 @@ Across one year of operations, True North Pizzeria generated approximately **CAD
 
 These patterns highlight an opportunity to double down on high performing categories and sizes while reevaluating weaker items to improve overall menu efficiency and profitability.
 
+<p align="center">
+  <img src="images/dashboard_home.png" width="700">
+</p>
+
+<p align="center"><em>Main sales performance dashboard in Power BI</em></p>
+
 ## Insights Deep Dive
 ### Sales Trends Over Time
 
@@ -53,6 +59,13 @@ Classic pizzas generate the highest share of total revenue at **26.9%**, followe
 Large pizzas are the strongest revenue driver, contributing **45.9%** of total sales. Medium sizes follow at **30.5%**, and Regular sizes contribute **21.8%**. X-Large and XX-Large sizes account for only **1.7%** and **0.1%**, showing minimal demand. The dominance of Large pizzas highlights a strong preference for larger portions and greater value items.
 
 ### Product Level Performance
+
+<p align="center">
+  <img src="images/dashboard_best_worst.png" width="700">
+</p>
+
+<p align="center"><em>Top and bottom pizza performers by revenue, quantity, and orders</em></p>
+
 
 **Top Performing Pizzas:**  
 Across revenue, quantity, and order counts, several pizzas consistently appear among the strongest performers.  
